@@ -1,0 +1,40 @@
+@media (min-width: 768px){
+    #mobileMenu{
+        display: none;
+    }
+}
+
+@media (max-width: 768px){
+#desktopMenu{
+    display: none;
+}
+.hs-menubar.sticky {
+    height: 110px;
+}
+.brand-logo img {
+    height: 70px;
+    width: auto;
+    margin-top: 1px;
+}
+.main-body {
+    margin-top: 110px;
+}
+#mostPopularSlider .owl-item.active.center {
+    transform: scale(1);
+}
+#mostPopular .owl-carousel {
+    padding: 0;
+}
+.offer-block {
+    margin-bottom: 2rem;
+}
+
+
+
+
+}
+
+@media (max-width: 576px){
+
+
+}
